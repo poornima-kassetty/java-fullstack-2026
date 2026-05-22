@@ -70,9 +70,7 @@ Concepts Learned:
 
 Output:
 
-  ;     javascript
+     
 
-  ;      
-
-  ;     Hello, World!
+    Hello, World!
 
