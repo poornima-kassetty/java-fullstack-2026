@@ -8,9 +8,9 @@ Tracking my daily progress learning Java + Spring Boot + React. Goal: Backend De
 
 **Author**: Poornima Kassetty  
 
-**Started**: may20,2026 
+**Started**: May 20,2026 
 
- **Stack** : Java 26, IntelliJ, Git
+ *Stack*: Java 26, IntelliJ, Git
 
 
 
@@ -26,9 +26,9 @@ Tracking my daily progress learning Java + Spring Boot + React. Goal: Backend De
 
 cd src/main/java
 
-javac Day01 _HelloWorld.java
+javac Day01_HelloWorld.java
 
-java Day01 _HelloWorld
+java Day01_HelloWorld
 
 
 
@@ -36,33 +36,33 @@ java Day01 _HelloWorld
 
 **Day 1**: Hello World + Setup ✅
 
-File: Day01 _HelloWorld.java
+File: Day01_HelloWorld.java
 
-Concepts Learned:
+**Concepts Learned:**
 
-  ;     .Installed JDK 26 + IntelliJ
+  -  Installed JDK 26 + IntelliJ
 
-  ;     .public static void main(String [] args) syntax
+  - `public static void main(String [] args) syntax
 
-  ;     .System.out.println() for output
+  - `System.out.println() for output
 
-  ;     .Compile vs Run process
+  - Compile vs Run process
 
 
 
-  ; Code:
+  **Code:**
 
-  ;   java
+  ```   java
 
-  ;    public class Day01 _HelloWorld {
+    public class Day01_HelloWorld {
 
-  ;   public static void main(String [] args)
+     public static void main(String[] args)
 
-  ;    {
+      {
 
-  ;       System.out.println("Hello, World!");
+         System.out.println("Hello, World!")-
 
-  ;   }
+     }
 
 }
 
