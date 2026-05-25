@@ -30,6 +30,7 @@ javac Day01_HelloWorld.java
 
 java Day01_HelloWorld
 
+```
 
 
 ### Daily Progress
@@ -52,7 +53,7 @@ File: Day01_HelloWorld.java
 
   **Code:**
 
-  ```   java
+  ```java
 
     public class Day01_HelloWorld {
 
