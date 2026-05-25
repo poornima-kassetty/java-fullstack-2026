@@ -43,9 +43,9 @@ File: Day01_HelloWorld.java
 
   -  Installed JDK 26 + IntelliJ
 
-  - `public static void main(String [] args) syntax
+  - `public static void main(String [] args)` syntax
 
-  - `System.out.println() for output
+  - `System.out.println()` for output
 
   - Compile vs Run process
 
