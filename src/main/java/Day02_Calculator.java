@@ -19,8 +19,12 @@ public class Day02_Calculator {
         System.out.println("value of y: "+y);
         System.out.println("sum of x and y: " + (x+y));
         System.out.println("Product of x and y : "+(x*y));
+       if (y!=0)
         System.out.println("value of (x/y) :"+(x/y));
-        System.out.println("value of x%y :" +(x%y));
+       else
+           System.out.println("here y value is zero so division is not possible and its value is infinity");
+
+       System.out.println("value of x%y :" +(x%y));
        System.out.println("increment of x by 1: "+ ++x);
         System.out.println("increment of y by 1: "+ ++y);
         System.out.println("decrement of x by 1: "+ --x);
