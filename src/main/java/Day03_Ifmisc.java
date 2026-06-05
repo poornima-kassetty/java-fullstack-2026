@@ -13,7 +13,7 @@ public class Day03_Ifmisc
         {
             System.out.print("Enter the age of that person: ");
            Scanner sc1 = new Scanner(System.in);
-            int age = sc.nextInt();
+            int age = sc1.nextInt();
             if (age>=18)
             {
                 System.out.println("This person is eligible for voting");
