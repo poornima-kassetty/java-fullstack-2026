@@ -10,8 +10,10 @@ public class Day02_Calculator {
         Scanner sc =new Scanner(System.in);
         System.out.print("Enter value of x :");
         x=sc.nextInt();
+
         System.out.print("Enter value of y :");
-        y=sc.nextInt();
+        Scanner sc1 = new Scanner(System.in);
+        y=sc1.nextInt();
        // p=++x;
         //q=++y;
        // System.out.println("====Hard coded calculator=====");
