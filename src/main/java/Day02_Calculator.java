@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
 public class Day02_Calculator {
-    public static void main(String args[])
+    public static void main(String[] args)
     {
-        int x, y,p,q;
+        int x, y;
         //x=110;
         //y=12;
         System.out.println("====Scanner calculator=====");
