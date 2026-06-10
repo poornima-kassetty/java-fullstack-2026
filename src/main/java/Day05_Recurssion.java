@@ -10,7 +10,8 @@ public class Day05_Recurssion
         else if (x==1 || x==0)
             return(1);
         else{
-            y = x* fact(--x);
+            y = x*fact(x-1);
+            System.out.println(x);
         return y;
     }}
     public static void main(String[] args)
